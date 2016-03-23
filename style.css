@@ -1,0 +1,12 @@
+.container-fluid {
+    width: 90%;
+}
+
+.header {
+    position: absolute;
+    z-index: 1;
+}
+
+.nav-toggle {
+    position: fixed;
+}
