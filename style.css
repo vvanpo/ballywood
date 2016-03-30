@@ -1,8 +1,5 @@
 /* Palette: http://colorpalettes.net/color-palette-2699/ */
 
-.container-fluid {
-}
-
 .header {
     position: absolute;
     left: 16px;
@@ -35,7 +32,7 @@
     text-align: center;
 }
 .logo img {
-    width: 75%;
+    width: 100%; 
     max-width: 200px;
 }
 
@@ -46,6 +43,7 @@
 .header-links a {
     color: #232e27;
     text-decoration: none;
+    padding: 0 5px;
 }
 .header-links a:hover {
     opacity: 0.75;
@@ -70,7 +68,6 @@
 | http://www.mattvarone.com/web-design/uitotop-jquery-plugin/
 |--------------------------------------------------------------------------
 */
-
 #toTop {
   display:none;
   text-decoration:none;
