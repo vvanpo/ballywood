@@ -85,3 +85,9 @@
 #toTop:active, #toTop:focus {
     opacity: 0.50;
 }
+
+/* pongstgrm */
+.instagram {
+    margin: 5%;
+    width: 90%;
+}
